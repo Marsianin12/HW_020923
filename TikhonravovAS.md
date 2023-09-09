@@ -32,3 +32,6 @@
 * git branch -d branch_name - удаление ветки с имеменем branche_name
 
 ## 3. Работа с github
+* git push - отправка репозитория на github
+* git pull - Скачать удаленные данные из репозитория 
+* git clone - клонировать удаленный репозиторий 
