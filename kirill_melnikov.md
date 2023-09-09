@@ -68,3 +68,20 @@ git log --patch -<quantity>
 git branch <branch_name>
 ```
 >*<branch_name>* - имя ветки
+
+### Переключение веток
+
+Для переключения на существующую ветку выполните команду git checkout. Давайте переключимся на ветку <branch_name> :
+
+```
+git checkout <branch_name>
+```
+Что бы создать ветку и сразу же переключиться на нее, можно выполнить команду:
+```
+git checkout -b <name_branch>
+```
+Это тоже самое, что и:
+```
+git branch <branch_name>
+git checkout <branch_name>
+```
