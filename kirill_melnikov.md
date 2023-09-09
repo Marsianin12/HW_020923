@@ -35,6 +35,6 @@ git add
 ```
 >*Добавление файла*
 ```
-git commit -m 
+git commit -m "my comments"
 ```
 >*Создаем описание изменения*
