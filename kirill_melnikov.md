@@ -93,3 +93,6 @@ git checkout <branch_name>
 git merge <branch_name>
 ```
 >**<branch_name>* - Имя ветки котору мы изменили и сливаем.
+
+---
+ # Работа с GitHub
