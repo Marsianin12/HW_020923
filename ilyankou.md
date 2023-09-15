@@ -40,3 +40,8 @@
 * git branch - выводит список веток
 * git branch branch_name - создайт строку с именем branch name
 * git log --graph - выводит журнал с именем branch name
+## Работа с удаленными репозиториями
+* git clone - скопировать репозиторий
+* cd folder_name - поменять директорию
+* git push - отправить локальную копию в github
+* git pull - стянуть изменения  с удаленного репозитория
