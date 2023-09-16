@@ -135,8 +135,10 @@ $ git log --graph
         Initial commit
     ```
 
-## 4. Документация по GIT
+## 4. Работа с удалённымии репозиториями
+
+## 5. Документация по GIT
 <https://git-scm.com/docs>
 
-## 5. Дистрибутивы GIT
+## 6. Дистрибутивы GIT
 <https://git-scm.com/downloads>
